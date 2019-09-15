@@ -10,6 +10,17 @@ $ sudo python setup.py install
 ```
 
 
+## 사용방법
+```
+이 프로그램은 game of life를 표현하는 프로그램 입니다.
+
+사용 방법:
+    cli.py [file_path]
+
+예제:
+    python cli.py plus.txt
+
+
 
 
 
